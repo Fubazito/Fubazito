@@ -1,15 +1,25 @@
 ##
-### Felipe, Fubá ou Fubazito. 👨‍💻
-##
 
-### Linguagens e Ferramentas que estudo:
+<div>
+  <h1> Felipe, Fubá ou Fubazito. 👨🏾‍💻 </h1>
+  <p>✌🏾 Meu nome é Felipe Matheus, e sou um jovem aprendiz da vida e tecnologia.<br>
+     🏃 Busco conhecer mais e mais todos os dias! (É agridoce viver ❤️).<br>
+     🧑🏾‍🎓Estudando Front-end por pura vontade e independência!!</p>
+</div>
+
+##
+### Linguagens e Ferramentas que uso e estudo:
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="WINDOWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="PHOTOSHOP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+  -
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="angularjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ANGULARJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 </div>
 
 ##
