@@ -2,7 +2,7 @@
 
 <div>
   <h1> Felipe, Fubá ou Fubazito. 👨🏾‍💻 </h1>
-  <p>✌🏾 Meu nome é Felipe Matheus, e sou um jovem aprendiz da vida e tecnologia.<br>
+  <p>✌🏾 Meu nome é Felipe Matheus, sou um jovem aprendiz da vida e tecnologia.<br>
      🏃 Busco conhecer mais e mais todos os dias! (É agridoce viver ❤️).<br>
      🧑🏾‍🎓Estudando Front-end por pura vontade e independência!!</p>
 </div>
