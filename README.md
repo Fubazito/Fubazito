@@ -2,9 +2,7 @@
 
 <div>
   <h1> Felipe, Fubá ou Fubazito. 👨🏾‍💻 </h1>
-  <p>✌🏾 Meu nome é Felipe Matheus, sou um jovem aprendiz da vida e tecnologia.<br>
-     🏃 Busco conhecer mais e mais todos os dias! (É agridoce viver ❤️).<br>
-     🧑🏾‍🎓Estudando Front-end por pura vontade e independência!!</p>
+  <p>🏃 Buscando conhecer mais e mais todos os dias!</p>
 </div>
 
 ##
@@ -18,8 +16,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ANGULARJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="IONIC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
 </div>
 
 ##
